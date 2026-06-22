@@ -1,0 +1,6 @@
+{
+  "name": "Mario Finder Dashboard",
+  "description": "An interactive, custom find-the-character game in the style of Where's Waldo, featuring Nintendo and Mario-themed custom generated maps and hidden characters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
